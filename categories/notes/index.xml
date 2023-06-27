@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>笔记 - 分类 - fangxの博客</title>
+        <link>https://fangx1999.github.io/categories/notes/</link>
+        <description>笔记 - 分类 - fangxの博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1398511936@qq.com (fangxin)</managingEditor>
+            <webMaster>1398511936@qq.com (fangxin)</webMaster><atom:link href="https://fangx1999.github.io/categories/notes/" rel="self" type="application/rss+xml" /></channel>
+</rss>
