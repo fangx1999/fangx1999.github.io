@@ -4,7 +4,15 @@
         <link>https://fangx1999.github.io/posts/</link>
         <description>所有文章 | fangxの博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1398511936@qq.com (fangxin)</managingEditor>
-            <webMaster>1398511936@qq.com (fangxin)</webMaster><lastBuildDate>Tue, 27 Jun 2023 16:48:20 &#43;0800</lastBuildDate><atom:link href="https://fangx1999.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>1398511936@qq.com (fangxin)</webMaster><lastBuildDate>Tue, 27 Jun 2023 17:44:23 &#43;0800</lastBuildDate><atom:link href="https://fangx1999.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Presto求解严格中位数的一种方法</title>
+    <link>https://fangx1999.github.io/2023_06_27_2/</link>
+    <pubDate>Tue, 27 Jun 2023 17:44:23 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://fangx1999.github.io/2023_06_27_2/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>MySQL中NOT IN和NOT EXISTS对NULL值的处理</title>
     <link>https://fangx1999.github.io/2023_06_27_1/</link>
     <pubDate>Tue, 27 Jun 2023 16:48:20 &#43;0800</pubDate>
